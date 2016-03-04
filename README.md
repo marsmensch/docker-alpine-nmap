@@ -1,7 +1,7 @@
 # docker-alpine-nmap
 =======
 
-a Dockerfile for nmap https://nmap.org/ using Alpine.   
+a Dockerfile for nmap https://nmap.org/ using Alpine. 
 
 Usage
 -----
@@ -24,4 +24,4 @@ There's a data volume available at `/data/` if you need one.
 Docker Hub
 ---------
 
- [marsmensch/nmap]: https://hub.docker.com/r/marsmensch/nmap/
+* https://hub.docker.com/r/marsmensch/nmap/
